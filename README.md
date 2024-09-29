@@ -1,2 +1,2 @@
 # helm
-helm tutorial
+basic helm tutorial for quick reference
